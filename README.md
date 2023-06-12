@@ -1,0 +1,1 @@
+This repository consists of my practice notebooks while learning Tensorflow from ZTM [deep learning course on tensorflow](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
